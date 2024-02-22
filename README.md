@@ -7,4 +7,6 @@
 
 3. Click Create function on the right side of the screen.
 
-4. Then upload the code stack 
+4. Then upload the code stack
+  
+6. Note-- Do the changes as per your requirement
